@@ -1,5 +1,6 @@
 # GoDNN
 [![Build Status](https://travis-ci.com/artem-97/godnn.svg?branch=main)](https://travis-ci.com/artem-97/godnn)
+
 Golang library for playing around with neural networks.
 
 
